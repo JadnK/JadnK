@@ -16,4 +16,4 @@ Ich entwickle Webanwendungen, Dashboards und eigene Tools – hauptsächlich mit
 `Java` · `Spring Boot` · `TypeScript` · `JavaScript` · `Python` · `HTML` · `CSS` · `Tailwind CSS`
 ---
 
-🌐 **[jadenk.de](https://jadenk.de)** · **[GitHub](https://github.com/JadnK)**
+🌐 **[jadenk.de](https://jadenk.de)** 

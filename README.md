@@ -1,23 +1,19 @@
-# Hi, I'm Jaden 👋
+# Jaden
 
-I'm a developer from Germany building web apps, dashboards, and backend tools.
+**Developer aus Deutschland 🇩🇪**
 
-## Focus
+Ich entwickle Webanwendungen, Dashboards und eigene Tools – hauptsächlich mit **Java, TypeScript und Python**.
 
-* Web applications
-* Backend systems
-* Dashboards
-* Automation tools
+## Was ich mache
 
-## Tech Stack
+* Webanwendungen & Dashboards
+* Backend mit Java / Spring Boot
+* TypeScript-Anwendungen
+* Kleine Tools und Automatisierungen
 
-* TypeScript / JavaScript
-* Java / Spring Boot
-* HTML / CSS / Tailwind CSS
-* Python
+## Technologien
 
-## Featured Work
+`Java` · `Spring Boot` · `TypeScript` · `JavaScript` · `Python` · `HTML` · `CSS` · `Tailwind CSS`
+---
 
-I like building practical tools with clean interfaces and useful functionality.
-
-You can find my portfolio here: [jadenk.de](https://jadenk.de)
+🌐 **[jadenk.de](https://jadenk.de)** · **[GitHub](https://github.com/JadnK)**

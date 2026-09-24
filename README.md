@@ -1,19 +1,20 @@
-# Jaden
+# Hey, ich bin Jaden 👋
 
-**Developer aus Deutschland 🇩🇪**
+**Softwareentwickler aus Deutschland 🇩🇪**
 
-Ich entwickle Webanwendungen, Dashboards und eigene Tools – hauptsächlich mit **Java, TypeScript und Python**.
+Java · TypeScript · JavaScript · Python · Rust
 
-## Was ich mache
+Ich entwickle Webanwendungen, Tools und Backend-Systeme.
 
-* Webanwendungen & Dashboards
-* Backend mit Java / Spring Boot
-* TypeScript-Anwendungen
-* Kleine Tools und Automatisierungen
+### Projekte
 
-## Technologien
+**[CodeDeck](https://github.com/JadnK/CodeDeck)**
+Desktop-Workspace für Entwickler · Tauri · React · TypeScript · Rust
 
-`Java` · `Spring Boot` · `TypeScript` · `JavaScript` · `Python` · `HTML` · `CSS` · `Tailwind CSS`
----
+**[SpringCloud](https://github.com/JadnK/SpringCloud)**
+Cloud-Dateimanager · Java · Spring Boot
 
-🌐 **[jadenk.de](https://jadenk.de)** 
+**[Mailux](https://github.com/JadnK/Mailux)**
+Self-hosted Mail-Management
+
+🌐 [jadenk.de](https://jadenk.de/)
